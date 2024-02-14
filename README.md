@@ -54,3 +54,14 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+In this README file:
+
+We provide an overview of the project and its features.
+List the technologies used in the project.
+Include setup instructions for users to clone and run the project locally.
+Describe how to use the application.
+Showcase screenshots of the application.
+Invite contributions from other developers.
+Specify the project's license.
