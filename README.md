@@ -40,12 +40,13 @@ Weather App is a simple web application that fetches real-time weather data for 
 ## Usage
 
 - Enter a city name in the input field and click "Get Weather" to fetch weather data for that location.
-- The weather information will be displayed below the input field.
+- The weather information will be displayed below the input field.!
+
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](screenshot1.png) ![Screenshot (266)](https://github.com/Its-priyanshu01/Weather-web-page-/assets/111541124/9a82ccef-84c1-4549-adaf-fbcc5e5b46a1)
+![Screenshot 2](screenshot2.png) [Screenshot (267)](https://github.com/Its-priyanshu01/Weather-web-page-/assets/111541124/1eb6e7b7-28c1-4f14-bf17-25522a5b1239)
 
 ## Contributing
 
