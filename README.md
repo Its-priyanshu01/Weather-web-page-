@@ -44,9 +44,13 @@ Weather App is a simple web application that fetches real-time weather data for 
 
 
 ## Screenshots
+-
+![Screenshot (266)](https://github.com/Its-priyanshu01/Weather-web-page-/assets/111541124/70a4f9cc-3e1f-43b1-8408-65f6f05173e8)
 
-![Screenshot 1](screenshot1.png) ![Screenshot (266)](https://github.com/Its-priyanshu01/Weather-web-page-/assets/111541124/9a82ccef-84c1-4549-adaf-fbcc5e5b46a1)
-![Screenshot 2](screenshot2.png) [Screenshot (267)](https://github.com/Its-priyanshu01/Weather-web-page-/assets/111541124/1eb6e7b7-28c1-4f14-bf17-25522a5b1239)
+
+
+-
+![Screenshot (267)](https://github.com/Its-priyanshu01/Weather-web-page-/assets/111541124/bccf5253-fcfe-4cdd-aed0-7548e4d53cc7)
 
 ## Contributing
 
